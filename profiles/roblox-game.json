@@ -1,0 +1,10 @@
+{
+  "TargetName": ["RobloxPlayerBeta"],
+  "CoreMode": "Logical",
+  "Priority": "High",
+  "MemoryPriority": "Auto",
+  "RamReservePercent": 25,
+  "NoHardMin": false,
+  "CpuLimitPercent": -1,
+  "WorkloadPercent": -1
+}

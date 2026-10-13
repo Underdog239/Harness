@@ -1,0 +1,10 @@
+{
+  "TargetName": ["RobloxStudioBeta"],
+  "CoreMode": "Physical",
+  "Priority": "AboveNormal",
+  "MemoryPriority": "Normal",
+  "RamReserveMB": 4096,
+  "RamCeilingMB": -1,
+  "NoHardMin": false,
+  "WorkloadPercent": 100
+}

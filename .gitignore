@@ -1,0 +1,4 @@
+# development artefacts
+__pycache__/
+*.pyc
+.venv/
