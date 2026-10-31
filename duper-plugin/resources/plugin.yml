@@ -1,0 +1,12 @@
+name: Duper
+version: 1.0
+main: dev.harness.duper.Duper
+api-version: '1.21'
+commands:
+  dupe:
+    description: Duplicate the item stack in your hand
+    permission: duper.use
+permissions:
+  duper.use:
+    description: Use /dupe
+    default: true
