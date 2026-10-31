@@ -4,7 +4,7 @@ main: dev.harness.duper.Duper
 api-version: '1.21'
 commands:
   dupe:
-    description: Duplicate the item stack in your hand
+    description: Open the duper GUI for the item in your hand
     permission: duper.use
 permissions:
   duper.use:
